@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "name": "syllable_kh",
+      "root": ".",
+      "variable_dirs": [{
+        "dir_name": "./allosaurus/pretrained",
+        "source": "210802_yue_split1_2",
+        "dest": "model"
+      }]
+    },
+    {
+      "name": "syllable_k",
+      "root": ".",
+      "variable_dirs": [{
+        "dir_name": "./allosaurus/pretrained",
+        "source": "210802_yue_split1_2",
+        "dest": "model"
+      }]
+    }
+  ]
+}
