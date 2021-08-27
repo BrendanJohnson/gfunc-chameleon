@@ -1,5 +1,6 @@
 {
   "name": "gfunc-chameleon",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
@@ -12,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "spinnies": "^0.5.1",
     "yargs": "^17.1.1"
   }
 }
